@@ -34,33 +34,63 @@
   "listening-what-today": [
     {
       "id": "1",
-      "image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FngheGi%2F1612496337944_300.jpg?alt=media&token=9c10cb5b-2573-4d50-afc8-faffd1eaada3",
-      "title": "Ballad Gây Thương Nhớ Nhất - V.A",
-      "view": "324.417"
+      "small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620641097840_145.jpg?alt=media&token=79ef9b62-fac0-404e-8488-42b2dbaf2d5f",
+      "large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620641097840_org.jpg?alt=media&token=628238ce-23c1-47a1-93bc-b8532672e0a3",
+      "title": "Mẩy Thật Đấy - BigDaddy"
     },
     {
       "id": "2",
-      "image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FngheGi%2F1620653755451_300.jpg?alt=media&token=022b8339-88e0-457c-ae55-3907f97a7c0f",
-      "title": "Do You Wanna Đu - V.A",
-      "view": "4.926"
+      "small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620633191534_145.jpg?alt=media&token=b311466a-ad6c-4543-97f9-a290e4b0c5cc",
+      "large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620633191534_org.jpg?alt=media&token=fbd823e6-f0a0-4fce-9b37-71dd3caf5682",
+      "title": "Cho Ngày Không Còn Nhau - T.R.I"
     },
     {
       "id": "3",
-      "image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FngheGi%2F1620383125006_300.jpg?alt=media&token=f7c853e1-29a5-4dd7-9e93-b921adf33a00",
-      "title": "EDM Mới Nhất - V.A",
-      "view": "7.596"
+      "small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620632958206_145.jpg?alt=media&token=f43e8c22-4018-4fc3-be3d-767e8ce7957a",
+      "large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620632958206_org.jpg?alt=media&token=7e32ec57-741b-44a8-96dd-c38bceaaaf09",
+      "title": "Đã Từng Là Tất Cả - Gemini Band"
     },
     {
       "id": "4",
-      "image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FngheGi%2F1620356405109_300.jpg?alt=media&token=ae066b8a-2c7e-4e64-b873-5ef603f6b57d",
-      "title": "Nhạc Việt Hôm Nay Nghe Gì - V.A",
-      "view": "141.8626"
+      "small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620630252759_145.jpg?alt=media&token=87910294-f005-405a-9c99-5c872cb29586",
+      "large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620630252759_org.jpg?alt=media&token=a5016700-388d-45a7-8e13-8840a6136158",
+      "title": "Album Hai Ta Đã Khác - DC Tâm"
     },
     {
       "id": "5",
-      "image": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2FngheGi%2F1620100988545_300.jpg?alt=media&token=f08a1963-ba47-448c-8a04-3d1ac6289257",
-      "title": "Top 100 Nhạc Trẻ Hay Nhất - V.A",
-      "view": "19.95.9815"
+      "small": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620359349369_145.jpg?alt=media&token=becabbbd-a895-4636-9b7b-f150f47863df",
+      "large": "https://firebasestorage.googleapis.com/v0/b/main-page-b5c0f.appspot.com/o/nhaccuatui.com%2F1620359349369_org.jpg?alt=media&token=35bf6fef-30c2-4aba-8da6-ea1313f57332",
+      "title": "V-POP Nhạc Mới Mỗi Ngày"
+    },
+    {
+      "id": "6",
+      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620124248846_300.jpg",
+      "title": "Remix Âu Mỹ Hay Nhất 2021 - V.A",
+      "view": "10.863"
+    },
+    {
+      "id": "7",
+      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
+      "title": "US-UK Không Thể Bỏ Qua - V.A",
+      "view": "32.568"
+    },
+    {
+      "id": "8",
+      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/29/c/2/f/d/1619681732309_300.jpg",
+      "title": "Nhạc Âu Mỹ Hot Tháng 05/2021 - V.A",
+      "view": "20.497"
+    },
+    {
+      "id": "9",
+      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
+      "title": "V-Pop Hôm Qua Nghe Gì - V.A",
+      "view": "135.813"
+    },
+    {
+      "id": "10",
+      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
+      "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+      "view": "1.422.281"
     }
   ]
 }
