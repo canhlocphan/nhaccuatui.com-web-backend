@@ -31,96 +31,103 @@
       "title": "VPOP Nhạc Mới Mỗi Ngày"
     }
   ],
-  "listening-what-today": [
-    {
-      "id": "1",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
-      "title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
-      "view": "10.863"
+  "listening-what-today": {
+    "pagination": {
+      "_limit": "5",
+      "_page": "1",
+      "_totalRows": "15"
     },
-    {
-      "id": "2",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
-      "title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
-      "view": "32.568"
-    },
-    {
-      "id": "3",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/29/c/1/1/9/1603940537407_300.jpg",
-      "title": "Nhạc Phim Huyền Thoại - V.A",
-      "view": "20.497"
-    },
-    {
-      "id": "4",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/19/7/2/7/4/1621417733054_300.jpg",
-      "title": "VPop Hôm Qua Nghe Gì - V.A",
-      "view": "135.813"
-    },
-    {
-      "id": "5",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/21/b/a/2/f/1621564781248_300.jpg",
-      "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
-      "view": "1.422.281"
-    },
-    {
-      "id": "6",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620124248846_300.jpg",
-      "title": "Remix Âu Mỹ Hay Nhất 2021 - V.A",
-      "view": "10.863"
-    },
-    {
-      "id": "7",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
-      "title": "US-UK Không Thể Bỏ Qua - V.A",
-      "view": "32.568"
-    },
-    {
-      "id": "8",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/29/c/2/f/d/1619681732309_300.jpg",
-      "title": "Nhạc Âu Mỹ Hot Tháng 05/2021 - V.A",
-      "view": "20.497"
-    },
-    {
-      "id": "9",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
-      "title": "VPop Hôm Qua Nghe Gì - V.A",
-      "view": "135.813"
-    },
-    {
-      "id": "10",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
-      "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
-      "view": "1.422.281"
-    },
-    {
-      "id": "11",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
-      "title": "VPop Hôm Qua Nghe Gì - V.A",
-      "view": "135.813"
-    },
-    {
-      "id": "12",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
-      "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
-      "view": "1.422.281"
-    },
-    {
-      "id": "13",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
-      "title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
-      "view": "10.863"
-    },
-    {
-      "id": "14",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
-      "title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
-      "view": "32.568"
-    },
-    {
-      "id": "15",
-      "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
-      "title": "US-UK Không Thể Bỏ Qua - V.A",
-      "view": "32.568"
-    }
-  ]
+    "data": [
+      {
+        "id": "1",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
+        "title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
+        "view": "10.863"
+      },
+      {
+        "id": "2",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
+        "title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
+        "view": "32.568"
+      },
+      {
+        "id": "3",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/29/c/1/1/9/1603940537407_300.jpg",
+        "title": "Nhạc Phim Huyền Thoại - V.A",
+        "view": "20.497"
+      },
+      {
+        "id": "4",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/19/7/2/7/4/1621417733054_300.jpg",
+        "title": "VPop Hôm Qua Nghe Gì - V.A",
+        "view": "135.813"
+      },
+      {
+        "id": "5",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/21/b/a/2/f/1621564781248_300.jpg",
+        "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+        "view": "1.422.281"
+      },
+      {
+        "id": "6",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620124248846_300.jpg",
+        "title": "Remix Âu Mỹ Hay Nhất 2021 - V.A",
+        "view": "10.863"
+      },
+      {
+        "id": "7",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
+        "title": "US-UK Không Thể Bỏ Qua - V.A",
+        "view": "32.568"
+      },
+      {
+        "id": "8",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/29/c/2/f/d/1619681732309_300.jpg",
+        "title": "Nhạc Âu Mỹ Hot Tháng 05/2021 - V.A",
+        "view": "20.497"
+      },
+      {
+        "id": "9",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
+        "title": "VPop Hôm Qua Nghe Gì - V.A",
+        "view": "135.813"
+      },
+      {
+        "id": "10",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
+        "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+        "view": "1.422.281"
+      },
+      {
+        "id": "11",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/06/0/3/3/2/1620290332918_300.jpg",
+        "title": "VPop Hôm Qua Nghe Gì - V.A",
+        "view": "135.813"
+      },
+      {
+        "id": "12",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/07/9/1/c/4/1620356405109_300.jpg",
+        "title": "Nhạc Việt Hôm Nay Nghe Gì? - V.A",
+        "view": "1.422.281"
+      },
+      {
+        "id": "13",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/01/11/0/7/e/2/1610337494469_300.jpg",
+        "title": "Nhạc Trẻ Cũ Mà Hay (Vol. 1) - V.A",
+        "view": "10.863"
+      },
+      {
+        "id": "14",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2020/10/15/b/5/b/d/1602755100720_300.jpg",
+        "title": "50 Bản Tình Ca Hay Nhất Mọi Thời Đại - V.A",
+        "view": "32.568"
+      },
+      {
+        "id": "15",
+        "image": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/17/1/a/b/f/1621235782141_300.jpg",
+        "title": "US-UK Không Thể Bỏ Qua - V.A",
+        "view": "32.568"
+      }
+    ]
+  }
 }
